@@ -1,2 +1,2 @@
 # ShinyHuntingSimulator
-A shiny pokemon hunting simultor
+A shiny pokemon hunting simulator
